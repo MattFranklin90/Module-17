@@ -1,5 +1,5 @@
 SocialNetwork
-Challenge # 17 Social Network This ReadME was created with a ReadME genereator : https://github.com/Kbasius/ReadM_Generator
+Challenge # 17 Social Network This ReadME was created with a ReadME genereator : 
 
 License: MIT
 Table of Contents
@@ -16,7 +16,7 @@ A demonstration of a Soclial Media API that allows users to write/remove thought
 Installation
 Pull the SolcialNetwork rep from the linked Github below, or simply download the zip file for said repo. You will need Insomnia as this is just the back-end and will not be hosted anywhere.
 
-https://github.com/Kbasius/SocialNetwork
+
 
 Usage
 As stated above you will use the program Insomnia or any other means of testing API requests.
@@ -33,5 +33,5 @@ This project is licensed under the MIT License.
 Questions
 If you have any questions, feel free to reach out:
 
-GitHub: https://github.com/Kbasius
+
 Email: [Not today!](mailto:Not today!)
